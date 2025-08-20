@@ -41,7 +41,7 @@ The EEG samples are stored as **JSON files**, each representing a temporal seque
 - A single trial is stacked into `(16, 8, 16)`.
 
 **Example JSON snippet:**
-```json
+```
 {
   "0ms": [[...8x16 values...]],
   "10ms": [[...8x16 values...]],
@@ -53,6 +53,7 @@ The EEG samples are stored as **JSON files**, each representing a temporal seque
 
 ## ⚙️ Installation & Setup
 
+```
 # Clone repository
 git clone https://github.com/Muhammad-Ahmed-Rayyan/EEG-Brain-Signal-Classifier.git
 cd EEG-Brain-Signal-Classifier
@@ -64,7 +65,7 @@ venv\Scripts\activate      # Windows
 
 # Install dependencies
 pip install -r requirements.txt
-
+```
 **Dependencies include:**
 - numpy
 - scikit-learn
@@ -74,7 +75,8 @@ pip install -r requirements.txt
 ---
 
 ## 🚀 Usage
-🔹 Train Models
+
+### 🔹 Train Models
 
 KNN Training:
 ```
@@ -93,7 +95,7 @@ python rf_test.py
 
 ---
 
-## 🔹 Predictions
+### 🔹 Predictions
 
 KNN Prediction:
 ```
