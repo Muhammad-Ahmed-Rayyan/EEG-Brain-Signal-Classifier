@@ -10,7 +10,7 @@
 
 <br>
 
-Built with the tools and technologies:
+Built with the tools and technologies:  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Joblib](https://img.shields.io/badge/Joblib-2E86C1?logo=python&logoColor=white)
