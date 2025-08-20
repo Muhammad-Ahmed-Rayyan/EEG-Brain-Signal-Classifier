@@ -10,7 +10,7 @@
 
 <br>
 
-Built with the tools and technologies: 
+Built with the tools and technologies:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Joblib](https://img.shields.io/badge/Joblib-2E86C1?logo=python&logoColor=white)
@@ -148,6 +148,6 @@ Total: 6 features × 8 channels = 48 features per trial.
 
 <div align="center">
 
-⭐ Support this project by dropping a star on GitHub!
+⭐ Don’t forget to star this repo on GitHub if you found it helpful!
 
 </div>
