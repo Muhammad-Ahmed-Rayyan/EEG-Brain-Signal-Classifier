@@ -13,7 +13,7 @@
 Built with the tools and technologies:  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Joblib](https://img.shields.io/badge/Joblib-2E86C1?style=for-the-badge&logo=python&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-6A5ACD?style=for-the-badge&logo=<custom_logo_url>&logoColor=white)
 
 </div>
 
