@@ -41,7 +41,7 @@ The EEG samples are stored as **JSON files**, each representing a temporal seque
 - A single trial is stacked into `(16, 8, 16)`.
 
 **Example JSON snippet:**
-```
+```bash
 {
   "0ms": [[...8x16 values...]],
   "10ms": [[...8x16 values...]],
@@ -53,7 +53,7 @@ The EEG samples are stored as **JSON files**, each representing a temporal seque
 
 ## ⚙️ Installation & Setup
 
-```
+```bash
 # Clone repository
 git clone https://github.com/Muhammad-Ahmed-Rayyan/EEG-Brain-Signal-Classifier.git
 cd EEG-Brain-Signal-Classifier
@@ -79,17 +79,17 @@ pip install -r requirements.txt
 ### 🔹 Train Models
 
 KNN Training:
-```
+```bash
 python KNN_test.py
 ```
 
 Random Forest Training:
-```
+```bash
 python RandomForest_test.py
 ```
 
 Random Forest (Grouped Actions):
-```
+```bash
 python rf_test.py
 ```
 
@@ -98,17 +98,17 @@ python rf_test.py
 ### 🔹 Predictions
 
 KNN Prediction:
-```
+```bash
 python KNN_predict.py
 ```
 
 Random Forest Prediction:
-```
+```bash
 python RandomForest_predict.py
 ```
 
 RF Group Model Prediction:
-```
+```bash
 python rf_predict.py
 ```
 
@@ -139,10 +139,9 @@ Total: 6 features × 8 channels = 48 features per trial.
 
 ---
 
-## 🙏 Acknowledgements
+## 📜 Acknowledgements
 
 - Dataset collected manually for EEG-based command classification.
-- Built using NumPy, SciPy, scikit-learn, and Joblib.
 - Inspired by applications in Brain-Computer Interfaces (BCI).
 
 ---
