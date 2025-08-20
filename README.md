@@ -1,12 +1,21 @@
+<div align="center">
+  
 # 🧠 EEG Brain Signal Classifier
 
-*Classify brainwave-based EEG signals into real-world commands using Machine Learning (KNN & Random Forest).*
+**Classify brainwave-based EEG signals into real-world commands using Machine Learning (KNN & Random Forest).**
 
 ![last commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/EEG-Brain-Signal-Classifier)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/EEG-Brain-Signal-Classifier)
+
+<br>
+
+Built with the tools and technologies: 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Joblib](https://img.shields.io/badge/Joblib-2E86C1?logo=python&logoColor=white)
+
+</div>
 
 ---
 
@@ -135,3 +144,9 @@ Total: 6 features × 8 channels = 48 features per trial.
 - Inspired by applications in Brain-Computer Interfaces (BCI).
 
 ---
+
+<div align="center">
+
+⭐ Support this project by dropping a star on GitHub!
+
+</div>
