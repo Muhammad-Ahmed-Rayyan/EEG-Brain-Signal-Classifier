@@ -5,15 +5,15 @@
 **Classify brainwave-based EEG signals into real-world commands using Machine Learning (KNN & Random Forest).**
 
 ![last commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/EEG-Brain-Signal-Classifier)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-100%25-blue?logo=python)
 ![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/EEG-Brain-Signal-Classifier)
 
 <br>
 
 Built with the tools and technologies:  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Joblib](https://img.shields.io/badge/Joblib-2E86C1?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-2E86C1?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
